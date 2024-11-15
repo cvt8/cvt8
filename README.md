@@ -13,4 +13,4 @@ I am a normalien at the École Normale Supérieure (ENS) in Paris, currently pur
 📫 Open to Collaboration and Consulting Opportunities: I invite you to connect with me to discuss innovative projects in the fields of cognitive science and artificial intelligence.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvt8)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvt8)](https://github.com/anuraghazra/github-readme-stats)
