@@ -11,6 +11,6 @@ I am a normalien at the École Normale Supérieure (ENS) in Paris, currently pur
 ✍️ Creative Initiatives: As the founder of the ENS writing club, I value the importance of clear and impactful communication of complex ideas.
 
 📫 Open to Collaboration and Consulting Opportunities: I invite you to connect with me to discuss innovative projects in the fields of cognitive science and artificial intelligence.
+ 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvt8&hide=jupypternotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvt8&hide=Jupypter-Notebook)
