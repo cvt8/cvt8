@@ -14,3 +14,4 @@ I am a normalien at the École Normale Supérieure (ENS) in Paris, currently pur
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvt8&hide=jupyternotebook")
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvt8)](https://github.com/anuraghazra/github-readme-stats)
