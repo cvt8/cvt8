@@ -1,3 +1,7 @@
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JusperLee.JusperLee)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/JusperLee?color=pink
+)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/JusperLee?logo=github&color=pink) 
+
 🔍 Mathematician Specializing in Cognitive Science and Artificial Intelligence 🎓
 
 I am a normalien at the École Normale Supérieure (ENS) in Paris, currently pursuing a master’s in Maths-Vision-Learning (MVA) at Université Paris-Saclay, an esteemed program focused on applied mathematics and AI. My research centers on modeling executive functions, specifically how humans make adaptive decisions. I utilize advanced mathematical methods and machine learning techniques to develop robust, generalizable models.
