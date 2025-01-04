@@ -1,6 +1,6 @@
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JusperLee.JusperLee)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/JusperLee?color=pink
-)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/JusperLee?logo=github&color=pink) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cvt8.cvt8)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/cvt8?color=pink
+)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/cvt8?logo=github&color=pink) 
 
 🔍 Mathematician Specializing in Cognitive Science and Artificial Intelligence 🎓
 
