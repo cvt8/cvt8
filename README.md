@@ -54,11 +54,10 @@ I compose film and media music (classical, jazz, contemporary) and perform:
 ### 💃 Movement, Coordination & Interaction
 
 Teacher and choreographer in:
-
 - East-coast swing
-- Rock (6-count / 4-count)
 - Waltz
-- Tango
+
+I also dance Tango, Salsa, Polka, 4-steps rock and West-coast swing.
 
 Dance informs my interest in **coordination**, **communication**, and **feedback loops** between agents.
 
