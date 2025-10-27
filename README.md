@@ -1,25 +1,94 @@
+<!-- Badges -->
+&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/cvt8?color=pink)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/cvt8?logo=github&color=pink)
 
-<!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cvt8) -->
-&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/cvt8?color=pink
-)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/cvt8?logo=github&color=pink) 
+# 👋 Hi, I'm Constantin
 
-🔍 Mathematician Specializing in Cognitive Science and Artificial Intelligence 🎓
+🎓 **AI & Applied Mathematics PhD Candidate at ENS–PSL**  
+🧠 Researching cognitive modeling, machine learning, and decision-making systems  
+💼 AI Advisor & **Board Member** in technology and media companies  
 
-I am a normalien at the École Normale Supérieure (ENS) in Paris, currently pursuing a master’s in Maths-Vision-Learning (MVA) at Université Paris-Saclay, an esteemed program focused on applied mathematics and AI. My research centers on modeling executive functions, specifically how humans make adaptive decisions. I utilize advanced mathematical methods and machine learning techniques to develop robust, generalizable models.
+---
 
-📊 Technical Expertise: I am particularly interested in reverse engineering and applying mathematical theories to real-world problems. I seek collaborations that allow me to deepen my research and explore new ideas.
+## 🔍 Research Focus
 
-🎶 Artistic Engagement: In addition to my academic pursuits, I have been a violinist and amateur pianist for over sixteen years, and I sing baritone. I have also recently taken up the trumpet in the ENS brass band. My passion for dance includes tango, waltz, east coast swing, and rock, which I have taught—highlighting my interest in the dynamics of human interaction through movement.
+I study how humans (and agents) make adaptive decisions under uncertainty.  
+My work blends:
 
-🐴 Equestrian Background: A confirmed horse rider with a Galop 5 level, I appreciate how equestrian discipline and dance share principles of balance, coordination, and communication, which are essential in my research projects.
+- Applied mathematics (PDEs, stochastic modeling)
+- Machine learning & deep learning
+- Cognitive science & behavioral modeling
+- Multi-agent systems (LLMs and coordination)
 
-✍️ Creative Initiatives: As the founder of the ENS writing club, I value the importance of clear and impactful communication of complex ideas.
+I aim to develop **interpretable**, **mathematically grounded**, and **generalizable** models of executive function and exploration–exploitation dynamics.
 
-📫 Open to Collaboration and Consulting Opportunities: I invite you to connect with me to discuss innovative projects in the fields of cognitive science and artificial intelligence.
- 
+---
 
-<!---
+## 💻 Technical Interests
+
+- Training dynamics of LLM multi-agent systems
+- Scientific computing & optimization
+- Representation learning
+- Probabilistic modeling
+- Decision-making under uncertainty
+
+I enjoy **reverse-engineering** intelligent behavior and using math to solve real-world problems.
+
+---
+
+## 🧰 Tech Stack
+
+**Python** (numpy, scipy, pandas, PyTorch, scikit-learn)  
+**OCaml**, **C**, **Java**, **SQL**, **JavaScript**  
+Scientific tooling: **PsychoPy/PsychoJS**, **nilearn**, **LaTeX**  
+Systems: **Linux**, Arch, NixOS, networking, robotics  
+
+---
+
+## 🎶 Artistic Work
+
+I compose film and media music (classical, jazz, contemporary) and perform:
+
+- Piano, violin, trumpet (ENS Brass Band)
+- Lyric baritone
+
+### 💃 Movement, Coordination & Interaction
+
+Teacher and choreographer in:
+
+- East-coast swing
+- Rock (6-count / 4-count)
+- Waltz
+- Tango
+
+Dance informs my interest in **coordination**, **communication**, and **feedback loops** between agents.
+
+### 🐎 Equestrian Background
+
+Level **Galop 5**, interested in the embodied intelligence of the horse-rider system:  
+balance, anticipation, and subtle communication — concepts that echo in my research.
+
+### ✍️ Creative Writing
+
+Founder of the ENS Writing Club.  
+Clear, concise communication is essential when conveying complex ideas.
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m always happy to discuss:
+
+- Machine learning research
+- Cognitive/neuroscientific modeling
+- AI strategy & responsible deployment
+- Music Projects, including film scoring and audiovisual projects
+
+📫 **Feel free to reach out:**  
+constantin.tenzer@ens.psl.eu
+
+---
+
+<!-- Stats (optional)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvt8&hide=jupyternotebook")
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvt8)](https://github.com/anuraghazra/github-readme-stats) 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvt8)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
